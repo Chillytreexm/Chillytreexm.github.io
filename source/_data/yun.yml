@@ -105,3 +105,6 @@ reward:
       path: 
       color: "#2DC100"
       icon: icon-wechat-pay-line
+
+wordcloud:
+  enable: true

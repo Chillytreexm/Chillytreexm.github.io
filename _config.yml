@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 
+title: Lufeibai's blog
 subtitle: 'Dimensional Blog'
 description: ''
 keywords:
@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: https://github.com/Chillytreexm/Chillytreexm.github.io
   branch: master 
-  message: Update Hexo First time again
+  message: Update My Blog
