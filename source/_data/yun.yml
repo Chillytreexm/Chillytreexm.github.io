@@ -108,3 +108,16 @@ reward:
 
 wordcloud:
   enable: true
+
+comment:
+  enable: true
+  candidates:
+    - valine
+    - utterances
+
+utterances:
+  enable: true
+  repo: https://github.com/Chillytreexm/Chillytreexm.github.io
+  issue-term: pathname
+  label: comment
+  theme: github-light
