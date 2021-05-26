@@ -24,12 +24,10 @@ avatar:
     message: 二次元！二次元！
 
 social:
-  - name: RSS
-    # set rss in your root config
-    # https://github.com/hexojs/hexo-generator-feed
-    link: /atom.xml # config.feed.path
-    icon: icon-rss-line
-    color: orange
+  - name: 微信（私人） YaeSakuraLufeibai
+    link: 
+    icon: icon-wechat-2-line
+    color: "#1AAD19"
   - name: QQ 526493110
     link: 
     icon: icon-qq-line
@@ -91,7 +89,7 @@ social:
 reward:
   enable: true
   icon: icon-hand-coin-line
-  comment: Thanks for watching!
+  comment: 想变得更加可爱!哦不是，是变强，所以请给我打钱。
   methods:
     - name: 
       path: 
