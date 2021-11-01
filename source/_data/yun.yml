@@ -2,7 +2,7 @@
 
 banner:
   enable: true
-  title: 陆非白的小窝
+  title: 陆非白的次元之家
   src: /js/ui/banner.js
   border: true
   cloud:
